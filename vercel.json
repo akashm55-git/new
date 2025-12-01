@@ -1,0 +1,6 @@
+{
+  "buildCommand": "npm run lint",
+  "outputDirectory": "dist",
+  "framework": null,
+  "installCommand": "pnpm install"
+}

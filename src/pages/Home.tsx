@@ -12,7 +12,7 @@ const Home = () => {
           <div className="max-w-4xl mx-auto text-center space-y-8 animate-fade-in">
             <div className="space-y-4">
               <h1 className="text-4xl xl:text-6xl font-bold text-foreground">
-                Hi, I'm <span className="gradient-text">Your Name</span>
+                Hi, I'm <span className="gradient-text">Akash M</span>
               </h1>
               <p className="text-xl xl:text-2xl text-muted-foreground">
                 Full Stack Developer & Creative Problem Solver
